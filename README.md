@@ -1,2 +1,2 @@
 # UP-PreP-Website
-Files for UP Preschool Practitioners' website
+Proposed Landing page for UP PreP. 
